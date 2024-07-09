@@ -1,7 +1,7 @@
 {
-  "name": "ai_avatar",
+  "name": "hide_seek",
   "version": "1.0.0",
-  "description": "ai avatar",
+  "description": "hide_seek",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
